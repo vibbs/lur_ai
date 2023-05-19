@@ -2,7 +2,7 @@
 tile: LUR_AI
 description: Learn, Unlearn, Relearn AI concepts
 author: Vaibhav Doddihal
-tags: prompt-engineering, prompt-design, large-language-models, tools, frameworks
+tags: #prompt-engineering, #prompt-design, #large-language-models, #langchain
 created: 2023 May 18
 modified: 2023 May 18
 ---
