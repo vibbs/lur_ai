@@ -17,8 +17,15 @@ Holistically, this repo will try to cover the following topics:
 
 ## 1. Prompt Design & Prompt Engineering
 
+- [Prompt Design 101](module-001/index.md)
+- [Prompt Engineering 101](module-002/index.md)
+
+
 ## 2. Large Language Models (LLMs)
 
 ## 3. Tools & Frameworks for LLMs
 
 > Note: there are many other topics that are not covered here, but will be added in the future.# lur_ai
+
+
+
