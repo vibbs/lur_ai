@@ -23,6 +23,8 @@ Holistically, this repo will try to cover the following topics:
 
 ## 2. Large Language Models (LLMs)
 
+- [Large Language Models 101](module-003/index.md)
+
 ## 3. Tools & Frameworks for LLMs
 
 > Note: there are many other topics that are not covered here, but will be added in the future.# lur_ai
