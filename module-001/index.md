@@ -4,10 +4,17 @@ description: Understanding what is Prompt Design and how to use it when interact
 author: Vaibhav Doddihal
 tags: #prompt-engineering, #prompt-design, #large-language-models,
 created: 2023 May 18
-modified: 2023 May 19
+modified: 2023 May 31
 ---
 
 # Prompt Design 101
+
+![img](images/banner_prompt_engineering.jpeg)
+
+## What is Prompt?
+
+Think of a prompt as a question or a statement that you give to a model. This is a text that we send to a LLMs(Large Language Models) to get a response. We will cover what LLMs are in the future article in detail.
+
 
 ## Why do we need Prompt Design?
 
